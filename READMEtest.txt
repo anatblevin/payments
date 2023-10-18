@@ -1,2 +1,0 @@
-# payments
-demo 
