@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: myService
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: DEBUG
+    org.springframework.web: DEBUG
+    org.springframework.boot: DEBUG
+    org.hibernate: DEBUG
+
+highnote:
+  baseUrl: https://api.us.test.highnote.com/graphql
+  apiKey: sk_test_9ty98inC7pG1b5AZDfRb1jwNNto9SfH61VFQtpaaQGqpL9RQUgx6CZG3Wd7y3wkwRhRAPHwhocNRFX8Wrc
+
+
